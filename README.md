@@ -1,5 +1,5 @@
 # 💫 About Me:
-Heya 👋<br>I'm currently a student doing my Masters in Cyber Security.<br>I'm looking to collaborate on everything as long as it matches my skills.<br>I'm currently solving rooms in TryHackMe.<br>Ask me about what did I learn recently.<br>Fun fact about me I can also dance.
+Heya 👋<br>I'm a recent graduate in Masters in Cyber Security.<br>I'm looking to collaborate on everything as long as it matches my skills.<br>I'm currently solving rooms in TryHackMe.<br>Ask me about what did I learn recently.<br>Fun fact about me I can also dance.
 
 
 ## 🌐 Socials:
